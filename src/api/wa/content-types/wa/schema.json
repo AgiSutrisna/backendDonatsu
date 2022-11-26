@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "was",
+  "info": {
+    "singularName": "wa",
+    "pluralName": "was",
+    "displayName": "wa"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "whatsapp": {
+      "type": "string"
+    }
+  }
+}
