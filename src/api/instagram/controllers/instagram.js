@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * instagram controller
+ * instagram controllerr
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
